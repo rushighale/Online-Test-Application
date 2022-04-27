@@ -1,5 +1,5 @@
 # Online-Test-Application
-Angular is a complete front end framework with a wide range of features
+#Angular is a complete front end framework with a wide range of features
 
     Strong Module System
     Strong Component System
@@ -8,4 +8,4 @@ Angular is a complete front end framework with a wide range of features
     Dependency Injection
     HTTP Requests
 
-Spring Boot is an awesome framework to build RESTful API and Microservices.
+#Spring Boot is an awesome framework to build RESTful API and Microservices.
